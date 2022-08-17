@@ -31,9 +31,9 @@ class _AppState extends State<App> {
     Color.fromARGB(255, 7, 255, 19),
     Color.fromARGB(255, 240, 91, 178),
     Colors.grey,
-    Color.fromARGB(255, 228, 181, 178),
+    Color.fromARGB(255, 206, 162, 159),
     Colors.brown,
-    Colors.deepOrange,
+    Color.fromARGB(255, 233, 226, 177),
     Color.fromARGB(255, 102, 175, 209),
   ];
 
